@@ -1,1 +1,1 @@
-# javasript1
+# javascript1
